@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Open Sans", sans-serif;
+    font-size: 36px;
+}
+
+div {
+    margin: 0 auto;
+    text-align: center;
+    height: 250px;
+    line-height: 250px;
+}
